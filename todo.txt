@@ -1,0 +1,4 @@
+# To Do
+- Lean Git
+- Push to Git
+- Collaborate with others
