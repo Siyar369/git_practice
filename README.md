@@ -10,3 +10,8 @@ Learning Git and GitHub for the first time!
 ## Features
 - Calculator with basic math operation
 - Error handling for division by zero
+
+
+## Technologies
+- Python 3
+- Git & GitHub
