@@ -1,4 +1,2 @@
-print ("Hello from both GitHub and Local Computer")
-print ("This version combines both edits")
-print ("Local version: Edited Locally")
-print ("GitHub version: edited on GitHub")
+print("Hello from VS Code!")
+print("This version was edited locally")
